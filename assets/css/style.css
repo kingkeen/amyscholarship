@@ -23,7 +23,17 @@
 }
 
 .innerLink {
-	color: grey;
+	color:white;
+}
+
+.btn-green {
+	background: #305232;
+	color: white;
+}
+
+.btn-lgreen {
+	background: #5c9f51;
+	color: white;
 }
 
 * { 
@@ -250,7 +260,7 @@ input {
 
 /* Blue Section - Picton */
 #picton {
-	background: #59ABE3;
+	background: #305232;
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -268,7 +278,7 @@ input {
 
 /* Blue Section - Curious */
 #curious {
-	background: #3498DB;
+	background: #5c9f51;
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -286,7 +296,7 @@ input {
 
 /* Blue Section - Malibu */
 #malibu {
-	background: #6BB9F0;
+	background: #acd477;
 	width: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
