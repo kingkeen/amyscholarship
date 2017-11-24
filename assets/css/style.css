@@ -191,7 +191,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/regal.png) repeat center;
+	background: url(../img/regal.png) repeat center top;
 	padding-top: 10px;
 	text-align:center;
 	background-attachment: relative;
